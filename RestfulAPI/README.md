@@ -12,4 +12,8 @@
 - Örn: /api/products/list?name=abc
 
 --- 
-### İkinci Hafta Ödevi
+#### Ekran Görüntüleri
+- Methodlar :
+![Alt text](image.png)
+- Örn: GetAll Methodu
+![Alt text](image-1.png)
