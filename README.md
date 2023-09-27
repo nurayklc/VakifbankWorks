@@ -7,6 +7,7 @@
 - Modellerde zorunlu alanların kontrolü yapılmalıdır.
 - Routing kullanılmalıdır.
 - Model binding işlemleri hem body den hemde query den yapılacak şekilde örneklendirilmelidir. 
+
 **Bonus:**
 - Standart crud işlemlerine ek olarak, listeleme ve sıralama işlevleride eklenmelidir. 
 - Örn: /api/products/list?name=abc
@@ -16,10 +17,11 @@
 - İlk hafta geliştirilen API kullanılacaktır.
 - Rest standartlarına uygun olmalıdır.
 - Solid prensiplerine uyulmalıdır.
-- Fake servisler geliştirilerek Dependency injection kullanılmalıdır.
+- Fake servisler geliştirilerek Dependency Injection kullanılmalıdır.
 - API kullanılmak üzere extension geliştirilmelidir.
 - Projede swagger implementasyonu gerçekleştirilmelidir.
 - Global loglama yapan bir middleware yapılmalıdır.
+
 **Bonus:**
 - Fake bir kullanıcı giriş sistemi yapılabilir, Custom bir attribute ile bunu kontrol edilebilir.
 - Global exception middleware oluşturulabilir.
